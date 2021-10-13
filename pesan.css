@@ -1,0 +1,50 @@
+* {margin:20}
+  
+body {
+            font-family:arial,segoe ui;   
+			background-color: #e1f161;
+			text-align:center;
+			font-family: Quicksand, "sans-serif" ,body;
+}
+             
+.header {
+            width:auto;
+            background-color:#6F9;
+            padding:20px;
+            color:#fff;
+}   
+       
+  
+.main {
+            width:100%;
+            background:#fff;
+}
+  
+   
+  
+.content {
+            float:left;
+            width:66%;
+            background:#FFF;
+            padding:2%; 
+            min-height:400px;
+}
+  
+.sidebar {
+            float:right;
+            width:26%;
+            background:#6F9;
+            padding:2%;
+  
+}          
+  
+.clear {clear:both}
+  
+.footer {
+            width:auto;
+            height:auto;
+            padding:5px 10px;
+            background:#333;
+            color:#fff;
+  
+}

@@ -1,0 +1,22 @@
+body{
+  background: #e4e6fe;
+  background: -webkit-linear-gradient(to right, #ff5f6d, #ffc371);
+  background: "linear-gradient"(to right, #ff5f6d, #ffc371);
+  min-height: 100vh;
+ }
+
+#kotak_pembungkus
+{display:block;
+background:pink;
+margin:0 auto;
+width:370px}
+
+.kotak
+{display:inline-block;
+width:100px;
+height:100px;
+margin:10px;
+text-align:center;
+background:gray;
+line-height:100px;
+color:#uuu}
